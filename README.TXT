@@ -1,0 +1,1 @@
+These articles are all written by Ian Betteridge, originally for use on his blog, Technovia. They are all released under a Creative Commons license (see LICENSE.txt) 
