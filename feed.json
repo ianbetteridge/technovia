@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://ianbetteridge.micro.blog/2023/09/22/one-of-these.html",
+				
+				"content_html": "<p>One of these days I am going to write something about the prophetic nature of Cronenberg&rsquo;s &ldquo;Videodrom&rdquo; and &ldquo;eXistenz&rdquo;.</p>\n",
+				"content_text": "One of these days I am going to write something about the prophetic nature of Cronenberg's \"Videodrom\" and \"eXistenz\".\n",
+				"date_published": "2023-09-22T11:04:56+01:00",
+				"url": "https://technovia.co.uk/2023/09/22/one-of-these.html"
+			},
+			{
+				"id": "http://ianbetteridge.micro.blog/2023/09/15/properties-in-obsidian.html",
+				"title": "Properties in Obsidian are a game changer",
+				"content_html": "<p>I have been an on-again/off-again user of Obsidian for a couple of years and have lately been shifting a lot of my writing work to it, both blogging and fiction. It&rsquo;s an incredibly flexible tool which can be customised to meet your needs.</p>\n<p>Version 1.4 introduces <em>Properties</em>, a new interface for metadata. You have always been able to add metadata to notes in two ways: tags, which are just a hashtag in the next followed immediately by the tag; and as YAML, front-matter which is delineated in the note by existing between two sets of three hyphens.</p>\n<p>But that YAML has always been visible at the top of your note, which felt kind of clunky. Properties builds on this by taking that YAML and hiding it behind a much nicer interface:</p>\n<p><img src=\"https://github.com/obsidianmd/obsidian-api/assets/693981/aea72173-5663-459d-83de-6ff888f6bdd5\" alt=\"property-editor\"></p>\n<p>The nice part is that the data behind this interface is still just YAML delineated by those three dashes at the start of the file, which means it&rsquo;s editable in any text editor. There&rsquo;s no weird database which stores the metadata disconnected from the original file.<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup></p>\n<p>Why is this potentially so useful? Because for writing, it will allow me to stop using Tags for things like statuses. At the moment, I add a tag to define the status of a document. For example, I have tags for &ldquo;Blog/Ideas&rdquo;, &ldquo;Blog/InProgress&rdquo; and so on. In the future, instead of having to use tags I will be able to create a Property called &ldquo;Status&rdquo; and have ones for &ldquo;Ideas&rdquo;, &ldquo;In Progress&rdquo; etc predefined. This means that tags can become what they should be &ndash; a form of topic-based loose categorisation &ndash; rather than a mixed bag of topics and statuses and names and so on.</p>\n<p>I&rsquo;m really looking forward to seeing what extension developers do with Properties, in particular what can be built using the Auto Note Mover plugin which basically runs my writing workflow.</p>\n<div class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\">\n<p>This is one of the things I most love about Obsidian&rsquo;s design philosophy: everything possible lives in the note, and the note is just a plain text file in a folder on your local drive. If Obsidian ever died, all my notes and articles would still be right there, usable in any other text editor. I would lose the functionality which Obsidian adds over the top, but not the underlying data.&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</div>\n",
+				"content_text": "\nI have been an on-again/off-again user of Obsidian for a couple of years and have lately been shifting a lot of my writing work to it, both blogging and fiction. It's an incredibly flexible tool which can be customised to meet your needs.\n\nVersion 1.4 introduces *Properties*, a new interface for metadata. You have always been able to add metadata to notes in two ways: tags, which are just a hashtag in the next followed immediately by the tag; and as YAML, front-matter which is delineated in the note by existing between two sets of three hyphens. \n\nBut that YAML has always been visible at the top of your note, which felt kind of clunky. Properties builds on this by taking that YAML and hiding it behind a much nicer interface:\n\n![property-editor](https://github.com/obsidianmd/obsidian-api/assets/693981/aea72173-5663-459d-83de-6ff888f6bdd5)\n\nThe nice part is that the data behind this interface is still just YAML delineated by those three dashes at the start of the file, which means it's editable in any text editor. There's no weird database which stores the metadata disconnected from the original file.[^1]\n\nWhy is this potentially so useful? Because for writing, it will allow me to stop using Tags for things like statuses. At the moment, I add a tag to define the status of a document. For example, I have tags for \"Blog/Ideas\", \"Blog/InProgress\" and so on. In the future, instead of having to use tags I will be able to create a Property called \"Status\" and have ones for \"Ideas\", \"In Progress\" etc predefined. This means that tags can become what they should be -- a form of topic-based loose categorisation -- rather than a mixed bag of topics and statuses and names and so on. \n\nI'm really looking forward to seeing what extension developers do with Properties, in particular what can be built using the Auto Note Mover plugin which basically runs my writing workflow.\n\n[^1]: This is one of the things I most love about Obsidian's design philosophy: everything possible lives in the note, and the note is just a plain text file in a folder on your local drive. If Obsidian ever died, all my notes and articles would still be right there, usable in any other text editor. I would lose the functionality which Obsidian adds over the top, but not the underlying data. \n",
+				"date_published": "2023-09-15T12:02:45+01:00",
+				"url": "https://technovia.co.uk/2023/09/15/properties-in-obsidian.html"
+			},
+			{
 				"id": "http://ianbetteridge.micro.blog/2023/09/07/no-the-uk.html",
 				"title": "No, the UK government did not back down on its plans to spy on encrypted messages",
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
@@ -355,7 +371,7 @@
 				"id": "http://ianbetteridge.micro.blog/2023/07/29/hot-dog.html",
 				
 				"content_html": "<p>Hot. Dog.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Hot. Dog. \n\n<img src=\"https://ianbetteridge.micro.blog/uploads/2023/image.jpg\" width=\"450\" height=\"600\" alt=\"A hole in the wall (literally) hot dog place in Hastings. \">\n",
+				"content_text": "Hot. Dog. \n\n<img src=\"uploads/2023/image.jpg\" width=\"450\" height=\"600\" alt=\"A hole in the wall (literally) hot dog place in Hastings. \">\n",
 				"date_published": "2023-07-29T13:54:32+01:00",
 				"url": "https://technovia.co.uk/2023/07/29/hot-dog.html"
 			},
@@ -411,7 +427,7 @@
 				"id": "http://ianbetteridge.micro.blog/2023/07/01/fox-on-the.html",
 				
 				"content_html": "<p>Fox on the left, potential fox snack on the right</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Fox on the left, potential fox snack on the right \n\n<img src=\"https://ianbetteridge.micro.blog/uploads/2023/e0962ac774b346a8bb7b39bc5aa06836.jpg\" width=\"600\" height=\"450\" alt=\"A field with a fox watching a rabbit. \">\n",
+				"content_text": "Fox on the left, potential fox snack on the right \n\n<img src=\"uploads/2023/e0962ac774b346a8bb7b39bc5aa06836.jpg\" width=\"600\" height=\"450\" alt=\"A field with a fox watching a rabbit. \">\n",
 				"date_published": "2023-07-01T17:44:16+01:00",
 				"url": "https://technovia.co.uk/2023/07/01/fox-on-the.html"
 			},
@@ -427,7 +443,7 @@
 				"id": "http://ianbetteridge.micro.blog/2023/06/26/the-new-piece.html",
 				
 				"content_html": "<p>The new piece in the Turner Contemporary looked really rather nice at the weekend.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The new piece in the Turner Contemporary looked really rather nice at the weekend. \n\n<img src=\"https://ianbetteridge.micro.blog/uploads/2023/df2148efec6a4f5aa0b2bead449bfa96.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "The new piece in the Turner Contemporary looked really rather nice at the weekend. \n\n<img src=\"uploads/2023/df2148efec6a4f5aa0b2bead449bfa96.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-06-26T22:39:42+01:00",
 				"url": "https://technovia.co.uk/2023/06/26/the-new-piece.html"
 			},
