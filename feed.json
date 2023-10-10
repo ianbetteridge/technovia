@@ -7,6 +7,31 @@
 	"items": [
 		
 			{
+				"id": "http://ianbetteridge.micro.blog/2023/10/10/the-good-use.html",
+				"title": "The good use of ChatGPT for factual writing",
+				"content_html": "<p>I&rsquo;m not a huge fan of using ChatGPT for writing, because even leaving aside issues of accuracy, its style is stilted and just the wrong side of formulaic. But there&rsquo;s one area where it really works as a writing assistant: giving you an outline on a topic as a starting point.</p>\n<p>Tell it what you want and what to include, and it will come back with an outline of everything you should cover. It won&rsquo;t be your final structure, but as a place to start and especially if you&rsquo;re a bit stuck and need something to bounce around to fine-tune your idea, it&rsquo;s a really good assistant.</p>\n<p>I&rsquo;ve been thinking a lot about large language models as assistants for human creativity lately, in the context of Steve Jobs&rsquo; old view of computers as &ldquo;a bicycle for the mind&rdquo; and also the Knowledge Navigator video which came later on &ndash; John Sculley&rsquo;s vision of the future of computing. More to come on that&hellip;</p>\n",
+				"content_text": "I'm not a huge fan of using ChatGPT for writing, because even leaving aside issues of accuracy, its style is stilted and just the wrong side of formulaic. But there's one area where it really works as a writing assistant: giving you an outline on a topic as a starting point. \r\n\r\nTell it what you want and what to include, and it will come back with an outline of everything you should cover. It won't be your final structure, but as a place to start and especially if you're a bit stuck and need something to bounce around to fine-tune your idea, it's a really good assistant. \r\n\r\nI've been thinking a lot about large language models as assistants for human creativity lately, in the context of Steve Jobs' old view of computers as \"a bicycle for the mind\" and also the Knowledge Navigator video which came later on -- John Sculley's vision of the future of computing. More to come on that...\n",
+				"date_published": "2023-10-10T08:19:26+01:00",
+				"url": "https://technovia.co.uk/2023/10/10/the-good-use.html",
+				"tags": ["Technology"]
+			},
+			{
+				"id": "http://ianbetteridge.micro.blog/2023/09/26/microsoft-copilot-shows.html",
+				"title": "Microsoft 365 Copilot shows you ads. Or does it?",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Ask Microsoft 365 Copilot in Windows if it shows you ads, and it gives you a pretty confused answer:</p>\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" title=\"Asking Copilot if it shows ads.png\" src=\"https://technovia.co.uk/uploads/2023/asking-copilot-if-it-shows-ads.png\" alt=\"Asking Copilot if it shows ads\" width=\"376\" height=\"530\" border=\"0\" /></p>\n<p>But ask it a question about the specs of the iPhone 15, and at the bottom of a useful answer you get… what looks suspiciously like an ad:</p>\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" title=\"But here is Copilot showing ads.png\" src=\"https://technovia.co.uk/uploads/2023/but-here-is-copilot-showing-ads.png\" alt=\"But here is Copilot showing ads\" width=\"265\" height=\"600\" border=\"0\" /></p>\n<p>So which is it? does Copilot show you ads or not?</p>\n<p>Perhaps part the answer comes from the fact that, while it’s available in the UK, it’s <strong>not</strong> <a href=\"https://support.microsoft.com/en-gb/windows/welcome-to-copilot-in-windows-675708af-8c16-4675-afeb-85a5a476ccb0\">shipping in the European Economic Area</a> (EEA). No reasons are given for this, but it’s likely that it’s the same “waiting and seeing” about the impact of the provisions of the Digital Services and Digital Markets Acts in the EU as “stopped” Meta from shipping Threads there.</p>\n<p>Which begs the question: what <em>exactly</em> is Microsoft doing with the data that it’s harvesting from your copy of Windows that makes it nervous about the DSA and DMA? Windows has access to every file, every message, every conversation you have on your computer. So what is Copilot doing with it?</p>\n",
+				"date_published": "2023-09-26T21:16:49+01:00",
+				"url": "https://technovia.co.uk/2023/09/26/microsoft-copilot-shows.html"
+			},
+			{
+				"id": "http://ianbetteridge.micro.blog/2023/09/24/in-this-weeks.html",
+				
+				"content_html": "<p>In this week&rsquo;s Weeknote, I&rsquo;m doing some writing, walking around Sheppey, and being angry about repairability.</p>\n<p><a href=\"https://ianbetteridge.com/2023/09/24/weeknote-sunday-24th-september-2023/\">ianbetteridge.com/2023/09/2&hellip;</a></p>\n",
+				"content_text": "In this week's Weeknote, I'm doing some writing, walking around Sheppey, and being angry about repairability. \r\n\r\n[ianbetteridge.com/2023/09/2...](https://ianbetteridge.com/2023/09/24/weeknote-sunday-24th-september-2023/)\n",
+				"date_published": "2023-09-24T12:55:47+01:00",
+				"url": "https://technovia.co.uk/2023/09/24/in-this-weeks.html"
+			},
+			{
 				"id": "http://ianbetteridge.micro.blog/2023/09/22/one-of-these.html",
 				
 				"content_html": "<p>One of these days I am going to write something about the prophetic nature of Cronenberg&rsquo;s &ldquo;Videodrom&rdquo; and &ldquo;eXistenz&rdquo;.</p>\n",
