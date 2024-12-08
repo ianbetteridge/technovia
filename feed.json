@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://ianbetteridge.micro.blog/2024/12/08/im-going-to.html",
+				
+				"content_html": "<p>I&rsquo;m going to make a subclause of Betteridge&rsquo;s Law for <a href=\"https://www.newyorker.com/magazine/2024/12/16/what-will-elon-musk-and-vivek-ramaswamy-accomplish-with-doge?utm_source=threads&amp;utm_medium=social&amp;utm_campaign=tny&amp;utm_social-type=owned\">this one</a> which changes &ldquo;no&rdquo; to &ldquo;nothing good&rdquo;.</p>\n",
+				"content_text": "I'm going to make a subclause of Betteridge's Law for [this one](https://www.newyorker.com/magazine/2024/12/16/what-will-elon-musk-and-vivek-ramaswamy-accomplish-with-doge?utm_source=threads&utm_medium=social&utm_campaign=tny&utm_social-type=owned) which changes \"no\" to \"nothing good\". \r\n\r\n",
+				"date_published": "2024-12-08T17:22:49+00:00",
+				"url": "https://technovia.co.uk/2024/12/08/im-going-to.html"
+			},
+			{
 				"id": "http://ianbetteridge.micro.blog/2024/11/10/meanwhile-the-billionaires.html",
 				
 				"content_html": "<p>Meanwhile, the billionaires would very much like you to know it&rsquo;s now illegal not to give them your money.</p>\n<!-- raw HTML omitted -->\n",
@@ -42,7 +50,7 @@
 				"id": "http://ianbetteridge.micro.blog/2024/10/25/if-you-know.html",
 				
 				"content_html": "<p>If you know you know</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "If you know you know\n\n<img src=\"uploads/2024/bafkreihuojzelxadcaloumgu3grvhoodsbzoczjvbzen3gv4ypjbcexlna.jpg\" width=\"600\" height=\"600\" alt=\"A sticker with the Black Flag logo which replaces &quot;Black Flag&quot; with &quot;Live Laugh Love&quot;\">\n",
+				"content_text": "If you know you know\n\n<img src=\"https://cdn.uploads.micro.blog/96552/2024/bafkreihuojzelxadcaloumgu3grvhoodsbzoczjvbzen3gv4ypjbcexlna.jpg\" width=\"600\" height=\"600\" alt=\"A sticker with the Black Flag logo which replaces &quot;Black Flag&quot; with &quot;Live Laugh Love&quot;\">\n",
 				"date_published": "2024-10-25T12:17:52+00:00",
 				"url": "https://technovia.co.uk/2024/10/25/if-you-know.html"
 			},
