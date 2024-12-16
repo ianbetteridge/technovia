@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://ianbetteridge.micro.blog/2024/12/16/flat-tax-rate.html",
+				
+				"content_html": "<p><a href=\"https://www.theguardian.com/politics/2024/dec/16/flat-tax-rate-is-an-attractive-idea-kemi-badenoch-says\">Flat tax rate is an ‘attractive idea’, Kemi Badenoch says | Kemi Badenoch</a></p>\n<p>From the department of batshit Tories, we bring you this:</p>\n<blockquote>\n<p>At the moment, we are a welfare state with a little bit of a productivity attached to it. We&rsquo;ve got to turn that around.</p>\n</blockquote>\n",
+				"content_text": "[Flat tax rate is an ‘attractive idea’, Kemi Badenoch says | Kemi Badenoch](https://www.theguardian.com/politics/2024/dec/16/flat-tax-rate-is-an-attractive-idea-kemi-badenoch-says)\n\nFrom the department of batshit Tories, we bring you this:\n\n> At the moment, we are a welfare state with a little bit of a productivity attached to it. We've got to turn that around.\n",
+				"date_published": "2024-12-16T18:49:53+00:00",
+				"url": "https://technovia.co.uk/2024/12/16/flat-tax-rate.html"
+			},
+			{
 				"id": "http://ianbetteridge.micro.blog/2024/12/08/im-going-to.html",
 				
 				"content_html": "<p>I&rsquo;m going to make a subclause of Betteridge&rsquo;s Law for <a href=\"https://www.newyorker.com/magazine/2024/12/16/what-will-elon-musk-and-vivek-ramaswamy-accomplish-with-doge?utm_source=threads&amp;utm_medium=social&amp;utm_campaign=tny&amp;utm_social-type=owned\">this one</a> which changes &ldquo;no&rdquo; to &ldquo;nothing good&rdquo;.</p>\n",
@@ -42,7 +50,7 @@
 				"id": "http://ianbetteridge.micro.blog/2024/10/26/bunny-ears-biker.html",
 				
 				"content_html": "<p>Bunny ears biker</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Bunny ears biker\n\n<img src=\"uploads/2024/1bd741e074.jpg\" width=\"450\" height=\"600\" alt=\"A motor cyclist with a rabbit ears cover on their helmet. \">\n",
+				"content_text": "Bunny ears biker\n\n<img src=\"https://cdn.uploads.micro.blog/96552/2024/1bd741e074.jpg\" width=\"450\" height=\"600\" alt=\"A motor cyclist with a rabbit ears cover on their helmet. \">\n",
 				"date_published": "2024-10-26T15:25:57+00:00",
 				"url": "https://technovia.co.uk/2024/10/26/bunny-ears-biker.html"
 			},
