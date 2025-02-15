@@ -7,6 +7,31 @@
 	"items": [
 		
 			{
+				"id": "http://ianbetteridge.micro.blog/2025/02/15/like-many-people-who-grew.html",
+				
+				"content_html": "<p>Like many people who grew up in media in the 90s/00s, I am endlessly fascinated by the Murdochs, and <a href=\"https://www.theatlantic.com/magazine/archive/2025/04/rupert-murdoch-family-succession-james-murdoch/681675/\">this Atlantic piece on James</a> is absolutely juicy reading.</p>\n",
+				"content_text": "Like many people who grew up in media in the 90s/00s, I am endlessly fascinated by the Murdochs, and [this Atlantic piece on James](https://www.theatlantic.com/magazine/archive/2025/04/rupert-murdoch-family-succession-james-murdoch/681675/) is absolutely juicy reading. \n",
+				"date_published": "2025-02-15T10:36:31+00:00",
+				"url": "https://technovia.co.uk/2025/02/15/like-many-people-who-grew.html"
+			},
+			{
+				"id": "http://ianbetteridge.micro.blog/2025/02/01/im-watching-a-video-from.html",
+				
+				"content_html": "<p>I&rsquo;m watching a video from someone who switched from MacBook to Ubuntu on a ThinkPad and they have have HELL getting DaVinci to work. God bless them.</p>\n",
+				"content_text": "I'm watching a video from someone who switched from MacBook to Ubuntu on a ThinkPad and they have have HELL getting DaVinci to work. God bless them.\n",
+				"date_published": "2025-02-01T13:51:03+00:00",
+				"url": "https://technovia.co.uk/2025/02/01/im-watching-a-video-from.html"
+			},
+			{
+				"id": "http://ianbetteridge.micro.blog/2025/02/01/apple-to-court-please-let.html",
+				"title": "Apple to court: Please let us help Google avoid the law",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><a href=\"https://www.theverge.com/news/603998/apple-google-search-remedies-monopoly-trial-stay-request\">Apple asks court to halt Google search monopoly case | The Verge</a>:</p>\n<blockquote>\n<p>Apple writes that if its appeal isn’t handled until after the remedies trial has begun and it’s unable to participate, “Apple may well be forced to stand mute at trial, as a mere spectator, while the government pursues an extreme remedy that targets Apple by name and would prohibit any commercial arrangement between Apple and Google for a decade. This would leave Apple without the ability to defend its right to reach other arrangements with Google that could benefit millions of users and Apple’s entitlement to compensation for distributing Google search to its users.”</p>\n</blockquote>\n<p>Translation: “Hey, Google’s been paying us $20bn in order to avoid competition and we think that’s just fine, kids. Oh and we would very much like to have similar deals in the future, so us big tech corps can keep things sewn up nice and tight. PS DONALD PLEASE HELP.\"</p>\n",
+				"date_published": "2025-02-01T10:36:02+00:00",
+				"url": "https://technovia.co.uk/2025/02/01/apple-to-court-please-let.html",
+				"tags": ["Apple","Google","Antitrust"]
+			},
+			{
 				"id": "http://ianbetteridge.micro.blog/2025/02/01/a-brief-history-of-the.html",
 				"title": "A brief history of the Finder",
 				"content_html": "<!-- raw HTML omitted -->\n",
@@ -53,7 +78,7 @@
 				"id": "http://ianbetteridge.micro.blog/2025/01/26/the-unread-email-count-on.html",
 				
 				"content_html": "<p>The <a href=\"https://www.theverge.com/2025/1/26/24351363/samsung-s25-nvidia-5090-perplexity-openai-installer\">unread email count on Mike McCue&rsquo;s home screen</a> is literally giving me the fear.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The [unread email count on Mike McCue's home screen](https://www.theverge.com/2025/1/26/24351363/samsung-s25-nvidia-5090-perplexity-openai-installer) is literally giving me the fear.\r\n\n\n<img src=\"https://cdn.uploads.micro.blog/96552/2025/mike-mccue-homescreen.jpg\" width=\"552\" height=\"600\" alt=\"Over 250,000 unread emails. The horror, the horror. \">\n",
+				"content_text": "The [unread email count on Mike McCue's home screen](https://www.theverge.com/2025/1/26/24351363/samsung-s25-nvidia-5090-perplexity-openai-installer) is literally giving me the fear.\r\n\n\n<img src=\"uploads/2025/mike-mccue-homescreen.jpg\" width=\"552\" height=\"600\" alt=\"Over 250,000 unread emails. The horror, the horror. \">\n",
 				"date_published": "2025-01-26T16:23:46+00:00",
 				"url": "https://technovia.co.uk/2025/01/26/the-unread-email-count-on.html"
 			},
