@@ -7,6 +7,31 @@
 	"items": [
 		
 			{
+				"id": "http://ianbetteridge.micro.blog/2025/03/08/what-independent-nuclear-deterrent.html",
+				"title": "What independent nuclear deterrent? ",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><a href=\"https://www.theguardian.com/world/2025/mar/08/us-support-uk-nuclear-arsenal-in-doubt-trident-france\">US support to maintain UK’s nuclear arsenal is in doubt, experts say </a>:</p>\n<blockquote>\n<p>Downing Street sought to play down concerns earlier this week after diplomatic figures including the former British ambassador to the US Sir David Manning floated the scenario of an end to Anglo-US nuclear cooperation.</p>\n<p>However, calls for Britain to make alternative plans have been joined by the former UK foreign secretary Sir Malcolm Rifkind, who initiated talks in the 90s between the UK and France on nuclear weapons cooperation.</p>\n<p>“It really is necessary for Britain and France to work more closely together because if American reliability ever came into question, then Europe could be defenceless in the face of Russian aggression,” he said.</p>\n</blockquote>\n<p>The only nuclear weapons Britain really has are American missiles, which have British warheads and can be used independently but are drawn from a “pool” with the US, and maintained by US technicians. In other words, at any point, the US can pull the plug on the whole thing. </p>\n",
+				"date_published": "2025-03-08T12:04:41+00:00",
+				"url": "https://technovia.co.uk/2025/03/08/what-independent-nuclear-deterrent.html",
+				"tags": ["Politics","Defence"]
+			},
+			{
+				"id": "http://ianbetteridge.micro.blog/2025/03/01/microsoft-pushes-ahead-with-genai.html",
+				
+				"content_html": "<p><a href=\"https://www.wired.com/story/xbox-muse-generative-ai-developers-say-nobody-will-want-this/\">Microsoft pushes ahead with GenAI games that no one wants</a>:</p>\n<blockquote>\n<p>“When we rely on this stuff we are implicitly empowering a class of people who own these tools and don’t give a fuck about how they reshape our lives.”</p>\n</blockquote>\n<p>The replacement of craft with capital continue apace.</p>\n",
+				"content_text": "[Microsoft pushes ahead with GenAI games that no one wants](https://www.wired.com/story/xbox-muse-generative-ai-developers-say-nobody-will-want-this/):\r\n\r\n>“When we rely on this stuff we are implicitly empowering a class of people who own these tools and don’t give a fuck about how they reshape our lives.”\r\n\r\nThe replacement of craft with capital continue apace.\n",
+				"date_published": "2025-03-01T19:26:26+00:00",
+				"url": "https://technovia.co.uk/2025/03/01/microsoft-pushes-ahead-with-genai.html"
+			},
+			{
+				"id": "http://ianbetteridge.micro.blog/2025/03/01/in-the-past-couple-of.html",
+				
+				"content_html": "<p>In the past couple of months I&rsquo;ve subscribed to 404media, The Verge, and Wired, and I&rsquo;m really happy to do it. All three of them are doing exceptional work and great reporting. While mainstream media is generally failing us all, tech sites are stepping up to the challenge.</p>\n",
+				"content_text": "In the past couple of months I've subscribed to 404media, The Verge, and Wired, and I'm really happy to do it. All three of them are doing exceptional work and great reporting. While mainstream media is generally failing us all, tech sites are stepping up to the challenge. \n",
+				"date_published": "2025-03-01T19:16:03+00:00",
+				"url": "https://technovia.co.uk/2025/03/01/in-the-past-couple-of.html"
+			},
+			{
 				"id": "http://ianbetteridge.micro.blog/2025/03/01/of-course-y-combinator-is.html",
 				
 				"content_html": "<p>Of course Y Combinator is <a href=\"https://www.404media.co/optifyeai-ycombinator-startup-ai-factory/?ref=weekly-roundup-newsletter\">investing in and cheering on technologies which dehumanise low paid workers</a>. Of course they are.</p>\n",
